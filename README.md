@@ -20,9 +20,15 @@ K nearest neighbor classification
 Multiple logistics classification
 
 To run this notebook, you’ll need:
+
 python>=3.8
+
 scikit-learn
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
